@@ -10,7 +10,7 @@ class FBConstant:
     FB_LOGIN_BUTTON_ID = "u_0_b"
 
     # FB CONVERSATION
-    FB_CONVERSATION_URL = "https://www.facebook.com/messages/t/LeeQicheng"
+    FB_CONVERSATION_URL = "https://www.facebook.com/messages/t/XXXXXX"
     FB_TEXTBOX = "_5rpb"
     FB_MESSAGE_TO_SEND = "dummydata"
     FB_SEND_BUTTON_XPATH = "//a[@aria-label='Send']"
